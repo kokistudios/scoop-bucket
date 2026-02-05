@@ -6,14 +6,14 @@
             "bin": [
                 "card.exe"
             ],
-            "hash": "b22919ee84439896ae4c02da1617791dc4b268fe07f0c283ab6e07dac5cbc0b5"
+            "hash": "62a92df6faad9f3361f729215ddd277f5ad0096476f09f6719ccbfa8ec53c995"
         },
         "arm64": {
             "url": "https://github.com/kokistudios/card/releases/download/v1.0.0/card_1.0.0_windows_arm64.zip",
             "bin": [
                 "card.exe"
             ],
-            "hash": "4eac027a68479d6e6447384c9c075d042bb7738874e10fc3f2063d51b25fd7ba"
+            "hash": "9ba3d13902e0f588fed38f2836bc61d8ed7a4e3d873b2970342162f5aa40a914"
         }
     },
     "homepage": "https://github.com/kokistudios/card",
